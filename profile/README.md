@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Team Members – CH2-PS527
+| Member    | Student ID    | Path    | University    |
+|------------|------------|------------|------------|
+| Liza    | M010BSX1764      | Machine Learning     | Universitas Indonesia    |
+| Sean Edbert Thio    | M146DKY4221     | Machine Learning     | Institut Bisnis dan Informatika Kwik Kian Gie     |
+| Shahnaz Izzati Frishila    | M008BSX0090     | Machine Learning     | Universitas Gadjah Mada     |
+| Asty Yuliani    | C120BSX4197   | Cloud Computing    | Institut Teknologi Telkom Purwokerto    |
+| Delwa Diraja   | C008BSY3041    | Cloud Computing    | Universitas Gadjah Mada    |
+| Almas Fa’iq Khairul Ikhwan    | A120BSY2376    | Mobile Development    | Institut Teknologi Telkom Purwokerto    |
