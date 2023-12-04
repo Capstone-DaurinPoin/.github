@@ -1,4 +1,4 @@
-![Modern Download App Instagram Post (2500 x 1080 piksel) (Presentasi)](https://github.com/Capstone-DaurinPoin/.github/assets/100658838/9e9bc96c-dc93-45c1-bd12-f405b6fde9fe)## Team Members – CH2-PS527
+## Team Members – CH2-PS527
 | Member    | Student ID    | Path    | University    |
 |------------|------------|------------|------------|
 | Liza    | M010BSX1764      | Machine Learning     | Universitas Indonesia    |
