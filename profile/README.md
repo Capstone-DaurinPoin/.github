@@ -1,4 +1,4 @@
-## Team Members – CH2-PS527
+![Modern Download App Instagram Post (2500 x 1080 piksel) (Presentasi)](https://github.com/Capstone-DaurinPoin/.github/assets/100658838/9e9bc96c-dc93-45c1-bd12-f405b6fde9fe)## Team Members – CH2-PS527
 | Member    | Student ID    | Path    | University    |
 |------------|------------|------------|------------|
 | Liza    | M010BSX1764      | Machine Learning     | Universitas Indonesia    |
@@ -10,5 +10,6 @@
 
 ## DAURINPOIN Apps
 <p align="center">
-  <img src="(https://github.com/Capstone-DaurinPoin/.github/assets/100658838/f838a55a-499b-4873-ade1-8923d05a2d21)" alt="Deskripsi Gambar" style="width:100%;">
+
+  <img src="![Modern Download App Instagram Post (2500 x 1080 piksel) (Presentasi)](https://github.com/Capstone-DaurinPoin/.github/assets/100658838/2d822c94-69b0-4951-aacb-67e099437e73)" alt="Deskripsi Gambar" style="width:100%;">
 </p>
