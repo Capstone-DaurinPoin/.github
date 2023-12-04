@@ -4,7 +4,7 @@
 
 
 
-Team Members – CH2-PS527
+## Team Members – CH2-PS527
 | Member    | Student ID    | Path    | University    |
 |------------|------------|------------|------------|
 | Liza    | M010BSX1764      | Machine Learning     | Universitas Indonesia    |
