@@ -40,6 +40,11 @@ DaurinPoin application is a waste recycling application that provides incentives
 ## Architekture Overview
 ## Features of DaurinPoin APP
 ## Repository Branches
+In our project is divided into four branches:
+  - [Machine Learning](https://github.com/Capstone-DaurinPoin/ML)
+  - [Cloud Computing](https://github.com/Capstone-DaurinPoin/Cloud-Computing)
+  - [Mobile Development](https://github.com/Capstone-DaurinPoin/Mobile-Development)
+
 
 ## Contact
 
