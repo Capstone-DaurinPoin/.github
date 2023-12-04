@@ -11,5 +11,5 @@
 ## DAURINPOIN Apps
 <p align="center">
 
-  <img src="![Modern Download App Instagram Post (2500 x 1080 piksel) (Presentasi)](https://github.com/Capstone-DaurinPoin/.github/assets/100658838/2d822c94-69b0-4951-aacb-67e099437e73)" alt="Deskripsi Gambar" style="width:100%;">
+  <img src="(Presentasi)](https://github.com/Capstone-DaurinPoin/.github/assets/100658838/2d822c94-69b0-4951-aacb-67e099437e73)" alt="Deskripsi Gambar" style="width:80%;">
 </p>
