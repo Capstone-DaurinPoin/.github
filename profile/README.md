@@ -1,6 +1,6 @@
 ## DAURINPOIN Apps
 <p align="center">
-  <img src="https://github.com/Capstone-DaurinPoin/.github/assets/100658838/1ec22da9-96bd-4f72-aff0-cf668cae2b8b" alt="Modern Download App Instagram Post" width="500">
+  <img src="https://github.com/Capstone-DaurinPoin/.github/assets/100658838/1ec22da9-96bd-4f72-aff0-cf668cae2b8b" alt="Modern Download App Instagram Post" width="800">
 </p>
 
 
