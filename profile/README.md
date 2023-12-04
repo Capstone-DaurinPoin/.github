@@ -7,3 +7,9 @@
 | Asty Yuliani    | C120BSX4197   | Cloud Computing    | Institut Teknologi Telkom Purwokerto    |
 | Delwa Diraja   | C008BSY3041    | Cloud Computing    | Universitas Gadjah Mada    |
 | Almas Fa’iq Khairul Ikhwan    | A120BSY2376    | Mobile Development    | Institut Teknologi Telkom Purwokerto    |
+
+## DAURINPOIN Apps
+<p align="center">
+  <img src="![Modern Download App Instagram Post (2500 x 1080 piksel) (Presentasi)](https://github.com/Capstone-DaurinPoin/.github/assets/100658838/f838a55a-499b-4873-ade1-8923d05a2d21)
+" alt="Deskripsi Gambar" style="width:100%;">
+</p>
