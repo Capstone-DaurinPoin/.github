@@ -32,7 +32,6 @@ DaurinPoin application is a waste recycling application that provides incentives
 
 - **Cloud Computing:**
   - Google Cloud Run
-  - Cloud SQL
   - Firestore
   - Docker
   - Express.js
