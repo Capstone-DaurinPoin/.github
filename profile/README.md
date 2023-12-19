@@ -37,7 +37,7 @@ DaurinPoin application is a waste recycling application that provides incentives
   - Express.js
 
 ## Architekture Overview
-<img src="https://github.com/Capstone-DaurinPoin/Cloud-Computing/assets/100658838/f82850f6-e520-4a79-9cfc-043c270da932" alt="Modern Download App Instagram Post" width="900" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://github.com/Capstone-DaurinPoin/.github/assets/100658838/c69fb4a2-8f27-47b9-9429-5d136e47d0dd" alt="Modern Download App Instagram Post" width="900" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## Features of DaurinPoin APP
 ## Repository Branches
