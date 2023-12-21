@@ -8,7 +8,7 @@ DaurinPoin application is a waste recycling application that provides incentives
 | Member    | Student ID    | Path    | University    |
 |------------|------------|------------|------------|
 | Liza    | M010BSX1764      | Machine Learning     | Universitas Indonesia    |
-| Sean Edbert Thio    | M146DKY4221     | Machine Learning     | Institut Bisnis dan Informatika Kwik Kian Gie     |
+| Sean Edbert Thio    | M102BSY0481     | Machine Learning     | Institut Bisnis dan Informatika Kwik Kian Gie     |
 | Shahnaz Izzati Frishila    | M008BSX0090     | Machine Learning     | Universitas Gadjah Mada     |
 | Asty Yuliani    | C120BSX4197   | Cloud Computing    | Institut Teknologi Telkom Purwokerto    |
 | Delwa Diraja   | C008BSY3041    | Cloud Computing    | Universitas Gadjah Mada    |
