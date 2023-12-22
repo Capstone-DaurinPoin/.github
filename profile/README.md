@@ -42,7 +42,9 @@ DaurinPoin application is a waste recycling application that provides incentives
 
 Our application architecture is designed to operate in the `us-central1` region, utilizing Google Cloud services. The Android client initiates requests to Cloud Run services, which act as the backend, handling API requests and responses. Cloud Run interacts with Cloud SQL for data storage and retrieval, Cloud Storage for image storage, and Cloud Build for managing the build process. This region-specific implementation ensures low latency and optimal performance, catering to users in the `us-central1` region while leveraging the scalability and reliability of Google Cloud Platform.
 
-## Features of DaurinPoin APP
+## Demo DaurinPoin APP
+
+
 ## Repository Branches
 In our project is divided into four branches:
   - [Machine Learning](https://github.com/Capstone-DaurinPoin/ML)
